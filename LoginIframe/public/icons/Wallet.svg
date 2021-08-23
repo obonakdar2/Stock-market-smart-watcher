@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff1e4;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #ff8000;
+      }
+    </style>
+  </defs>
+  <g id="Wallet" transform="translate(-190 -112)">
+    <path id="Path_33" data-name="Path 33" class="cls-1" d="M9.5,0A9.5,9.5,0,1,1,0,9.5,9.5,9.5,0,0,1,9.5,0Z" transform="translate(190 112)"/>
+    <g id="credit_score_black_24dp" transform="translate(193 115)">
+      <g id="Group_7" data-name="Group 7">
+        <path id="Path_12" data-name="Path 12" class="cls-2" d="M0,0H12.325V12.325H0Z"/>
+      </g>
+      <g id="Group_8" data-name="Group 8" transform="translate(1.027 2.054)">
+        <path id="Path_13" data-name="Path 13" class="cls-3" d="M11.244,4H3.027A1.019,1.019,0,0,0,2.005,5.027L2,11.19a1.024,1.024,0,0,0,1.027,1.027H5.595V11.19H3.027V8.108h9.244V5.027A1.024,1.024,0,0,0,11.244,4Zm0,2.054H3.027V5.027h8.217Zm-2.6,5.736L7.187,10.337l-.724.724L8.64,13.244l3.631-3.631-.724-.724Z" transform="translate(-2 -4)"/>
+      </g>
+    </g>
+  </g>
+</svg>

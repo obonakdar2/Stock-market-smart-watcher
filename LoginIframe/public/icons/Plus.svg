@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9ebff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #c02bff;
+      }
+    </style>
+  </defs>
+  <g id="Plus" transform="translate(-388 -84)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-1" cx="9.5" cy="9.5" r="9.5" transform="translate(388 84)"/>
+    <g id="add_box_black_24dp" transform="translate(392 88)">
+      <path id="Path_26" data-name="Path 26" class="cls-2" d="M0,0H11.536V11.536H0Z"/>
+      <path id="Path_27" data-name="Path 27" class="cls-3" d="M10.691,3H3.961A.961.961,0,0,0,3,3.961v6.73a.961.961,0,0,0,.961.961h6.73a.964.964,0,0,0,.961-.961V3.961A.964.964,0,0,0,10.691,3ZM9.73,7.807H7.807V9.73H6.845V7.807H4.923V6.845H6.845V4.923h.961V6.845H9.73Z" transform="translate(-1.558 -1.558)"/>
+    </g>
+  </g>
+</svg>

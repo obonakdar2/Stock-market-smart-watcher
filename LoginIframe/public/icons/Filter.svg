@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dfffde;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #06b400;
+      }
+    </style>
+  </defs>
+  <g id="Filter" transform="translate(-190 -84)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="9.5" cy="9.5" r="9.5" transform="translate(190 84)"/>
+    <g id="filter_alt_black_24dp" transform="translate(192 86)">
+      <path id="Path_15" data-name="Path 15" class="cls-2" d="M0,0H14.817m0,14.817H0"/>
+      <path id="Path_16" data-name="Path 16" class="cls-3" d="M4.169,4.994c1.247,1.6,3.55,4.562,3.55,4.562v3.7a.619.619,0,0,0,.617.617H9.571a.619.619,0,0,0,.617-.617v-3.7s2.3-2.963,3.544-4.562A.616.616,0,0,0,13.244,4H4.657A.616.616,0,0,0,4.169,4.994Z" transform="translate(-1.545 -1.531)"/>
+      <path id="Path_17" data-name="Path 17" class="cls-2" d="M0,0H14.817V14.817H0Z"/>
+    </g>
+  </g>
+</svg>

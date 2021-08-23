@@ -1,0 +1,22 @@
+<svg id="basket" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d5ebff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #08f;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-1" cx="9.5" cy="9.5" r="9.5"/>
+  <g id="shopping_basket_black_24dp" transform="translate(5 4.216)">
+    <path id="Path_18" data-name="Path 18" class="cls-2" d="M0,0H10.859V10.859H0Z"/>
+    <path id="Path_19" data-name="Path 19" class="cls-3" d="M8.334,5.178,6.353,2.21a.449.449,0,0,0-.376-.19.442.442,0,0,0-.376.195L3.62,5.178H1.452A.454.454,0,0,0,1,5.631a.381.381,0,0,0,.018.122L2.167,9.947a.9.9,0,0,0,.869.661H8.918a.909.909,0,0,0,.873-.661L10.94,5.753l.014-.122a.454.454,0,0,0-.452-.452Zm-3.715,0L5.977,3.187,7.334,5.178ZM5.977,8.8a.9.9,0,1,1,.9-.9A.908.908,0,0,1,5.977,8.8Z" transform="translate(-1.548 -1.106)"/>
+  </g>
+</svg>

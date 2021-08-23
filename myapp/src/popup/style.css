@@ -1,0 +1,14 @@
+body {
+  width: 330px;
+  height: 500px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  display: block !important;
+  overflow: hidden !important;
+  visibility: visible !important;
+}
+
+iframe {
+  border: 0;
+}

@@ -1,0 +1,70 @@
+<link rel="stylesheet" href="/css/plans.css" />
+
+<form action="/plans" method="POST">
+  <div class="plans-grid" dir="rtl">
+    <div class="plan-card" id="p1">
+      <div class="plan-label">
+        <div class="pname">اشتراک 1 ساله</div>
+        <div class="pvalue">پنج هزار تومان</div>
+      </div>
+      <button id="p1p" class="pay">پرداخت</button>
+      <div class="line"></div>
+    </div>
+
+    <div class="plan-card" id="p2">
+      <div class="plan-label">
+        <div class="pname">اشتراک 6 ماهه</div>
+        <div class="pvalue">چهار هزار تومان</div>
+      </div>
+      <button id="p2p" class="pay">پرداخت</button>
+      <div class="line"></div>
+    </div>
+
+    <div class="plan-card" id="p3">
+      <div class="plan-label">
+        <div class="pname">اشتراک 3 ماهه</div>
+        <div class="pvalue">دو هزار تومان</div>
+      </div>
+      <button id="p3p" class="pay" name="duration" value="monthly">
+        پرداخت
+      </button>
+      <div class="line"></div>
+    </div>
+
+    <div class="plan-card" id="p4">
+      <div class="plan-label">
+        <div class="pname">اشتراک 1 ماهه</div>
+        <div class="pvalue">یک هزار تومان</div>
+      </div>
+      <button id="p4p" class="pay" name="duration" value="weekly">
+        پرداخت
+      </button>
+      <div class="line"></div>
+    </div>
+  </div>
+</form>
+<a href="/users/logout" class="logout btn btn-secondary">خروج</a>
+
+<script>
+  var form = document.getElementByClass("pay");
+
+  document.getElementByClass("pay").addEventListener("click", function () {
+    form.submit();
+  });
+</script>
+
+<!-- <!DOCTYPE html>
+<html>
+  <body>
+    <h2>Radio Buttons</h2>
+
+    <form action="/plans" method="POST">
+      <input type="radio" id="weekly" name="duration" value="weekly" />
+      <label for="weekly">Weekly</label><br />
+      <input type="radio" id="monthly" name="duration" value="monthly" />
+      <label for="monthly">Monthly</label><br />
+      <button type="submit">Next</button>
+      <a href="/users/logout" class="btn btn-secondary">Logout</a>
+    </form>
+  </body>
+</html> -->

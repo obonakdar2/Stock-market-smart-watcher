@@ -1,0 +1,26 @@
+<svg id="dollar" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cbffd4;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #00af1d;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-1" cx="9.5" cy="9.5" r="9.5"/>
+  <g id="paid_black_24dp" transform="translate(4 3.684)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0 0.78)">
+      <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-2" width="11" height="11" transform="translate(0 -0.464)"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0.936 1.016)">
+      <path id="Path_4" data-name="Path 4" class="cls-3" d="M6.682,2a4.682,4.682,0,1,0,4.682,4.682A4.684,4.684,0,0,0,6.682,2Zm.412,7.379V9.96H6.275v-.6A1.89,1.89,0,0,1,4.861,7.97l.773-.314a1.237,1.237,0,0,0,1.124.979c.435,0,.927-.225.927-.754,0-.449-.328-.684-1.068-.95C6.1,6.748,5.048,6.448,5.048,5.38A1.441,1.441,0,0,1,6.275,3.995V3.4h.819v.581A1.6,1.6,0,0,1,8.34,5.029l-.74.314a.9.9,0,0,0-.89-.627c-.328,0-.847.173-.847.651,0,.445.4.613,1.236.89,1.124.389,1.409.96,1.409,1.615A1.552,1.552,0,0,1,7.094,9.379Z" transform="translate(-2 -2)"/>
+    </g>
+  </g>
+</svg>

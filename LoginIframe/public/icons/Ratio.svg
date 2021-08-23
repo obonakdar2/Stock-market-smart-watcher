@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe8e8;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <g id="Ratio" transform="translate(-388 -112)">
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="9.5" cy="9.5" r="9.5" transform="translate(388 112)"/>
+    <g id="timelapse_black_24dp" transform="translate(391 115)">
+      <path id="Path_10" data-name="Path 10" class="cls-2" d="M0,0H12.536V12.536H0Z"/>
+      <path id="Path_11" data-name="Path 11" class="cls-3" d="M9.438,5.009a3.121,3.121,0,0,0-2.215-.919V7.223L5.009,9.438a3.132,3.132,0,1,0,4.43-4.43ZM7.223,2a5.223,5.223,0,1,0,5.223,5.223A5.225,5.225,0,0,0,7.223,2Zm0,9.4A4.179,4.179,0,1,1,11.4,7.223,4.178,4.178,0,0,1,7.223,11.4Z" transform="translate(-0.955 -0.955)"/>
+    </g>
+  </g>
+</svg>

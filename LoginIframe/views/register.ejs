@@ -1,0 +1,55 @@
+<link rel="stylesheet" href="/css/bootstrap-rtl.min.css" />
+
+<div class="customize card card-body">
+  <h1 class="text-center mb-3"><i class="fas fa-user-plus"></i> Register</h1>
+  <%- include ("./partials/messages"); %>
+  <form action="/users/register" method="POST">
+    <div class="form-group">
+      <label for="name">نام:</label>
+      <input
+        type="name"
+        id="name"
+        name="name"
+        class="form-control"
+        placeholder="نام خود را وارد کنید"
+        value="<%= typeof name != 'undefined' ? name : '' %>"
+      />
+    </div>
+    <div class="form-group">
+      <label for="email">ایمیل:</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        class="form-control"
+        placeholder="ایمیل خود را وارد کنید"
+        value="<%= typeof email != 'undefined' ? email : '' %>"
+      />
+    </div>
+    <div class="form-group">
+      <label for="password">رمز:</label>
+      <input
+        type="password"
+        id="password"
+        name="password"
+        class="form-control"
+        placeholder="ایجاد رمز"
+        value="<%= typeof password != 'undefined' ? password : '' %>"
+      />
+    </div>
+    <div class="form-group">
+      <label for="password2">ورود مجدد رمز:</label>
+      <input
+        type="password"
+        id="password2"
+        name="password2"
+        class="form-control"
+        placeholder="مجددا رمز خود را وارد کنید"
+        value="<%= typeof password2 != 'undefined' ? password2 : '' %>"
+      />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary btn-block">ثبت نام</button>
+  </form>
+  <p class="lead mt-4">حساب کاربری دارید؟ <a href="/users/login">ورود</a></p>
+</div>

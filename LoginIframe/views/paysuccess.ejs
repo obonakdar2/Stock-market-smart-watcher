@@ -1,0 +1,52 @@
+<style>
+  @font-face {
+    font-family: iransans;
+    src: url(./fonts/IRANSans.ttf);
+  }
+  h2 {
+    font-family: iransans;
+    text-decoration: underline;
+    color: rgb(6, 144, 6);
+    text-align: right;
+    padding: 10px;
+    margin-top: 150px;
+    justify-self: end;
+  }
+  p {
+    font-family: iransans;
+    font-size: 20px;
+    color: rgb(6, 144, 6);
+    text-align: right;
+    padding: 10px;
+    justify-self: end;
+  }
+  .boxpay {
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-right: 30px;
+    background: white;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    box-shadow: 10px 10px 20px rgba(18, 22, 33, 0.2);
+  }
+  img {
+    width: 300px;
+    justify-self: end;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+</style>
+<div class="boxpay">
+  <div>
+    <h2>پرداخت با موفقیت انجام شد</h2>
+    <p>:شماره تراکنش</p>
+    <p><%= ref_id %></p>
+  </div>
+
+  <img src="/img/paysuccess.png" alt="" />
+</div>

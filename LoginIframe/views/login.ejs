@@ -1,0 +1,33 @@
+<link rel="stylesheet" href="/css/bootstrap-rtl.min.css" />
+
+<div class="customize card card-body">
+  <h1 class="text-center mb-3"><i class="fas fa-sign-in-alt"></i> Login</h1>
+  <form action="/users/login" method="POST">
+    <div class="form-group">
+      <label for="email">ایمیل:</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        class="form-control"
+        placeholder="ایمیل خود را وارد کنید"
+      />
+    </div>
+    <br />
+    <div class="form-group">
+      <label for="password">رمز:</label>
+      <input
+        type="password"
+        id="password"
+        name="password"
+        class="form-control"
+        placeholder="رمز خود را وارد کنید"
+      />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary btn-block">ورود</button>
+  </form>
+  <p class="lead mt-4">
+    حساب کاربری ندارید؟ <a href="/users/register">ثبت نام</a>
+  </p>
+</div>
