@@ -1,4 +1,3 @@
-console.log("omid UI Preparing...");
 // Append CSS File to head
 $("head").append(
   '<link href="' +

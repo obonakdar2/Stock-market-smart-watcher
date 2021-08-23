@@ -20,5 +20,11 @@
   "web_accessible_resources": ["chortkee.png", "src/*"],
   "background": {
     "scripts": ["js/background.js"]
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://www.tsetmc.com/Loader.aspx?ParTree=15131F*"],
+      "js": ["js/content.js"]
+    }
+  ]
 }

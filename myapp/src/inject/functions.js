@@ -1,5 +1,3 @@
-console.log("functins.js loaded");
-
 // if (omid == true) {
 //   console.log("omid is true now");
 //   $("#omid").click(function () {
