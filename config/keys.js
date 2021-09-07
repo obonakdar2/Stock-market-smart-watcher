@@ -1,5 +1,5 @@
 dbPassword =
-  "mongodb://suranai1_user:bonekomiddar2@surana.ir:27017/suranai1_db";
+  "mongodb+srv://obonakdar2:bonekomiddar2@cluster0.gvx0v.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 module.exports = {
   mongoURI: dbPassword,
